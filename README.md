@@ -1,4 +1,5 @@
-<h2><a href="https://amity.uz">Amity University Tashkent</a></h2>
+<h4><a href="https://amity.uz">Amity University Tashkent</a></h4>
+
 # Data Structures Using C - University Lab Solutions
 
 ## Welcome!
